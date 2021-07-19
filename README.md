@@ -16,7 +16,7 @@ Racket 可通过创建大量的语法系统来支持和创建新的编程语言�
 
 Racket 的特点是具有全面而丰富的库，可用于实现 xml、web-server、web-framework、multiple-threads、pattern match、latex、slides、posix、GUI等，其实用性不亚于另一种 Lisp 方言 Common Lisp。另外，其与众不同的特点在于 macro和continuation，并引入了 syntax object 和 compilable macro 的概念。
 
-# 简说人工智能界经典语言 LISP 的几个主要特点：
+## 简说人工智能界经典语言 LISP 的几个主要特点：
 
 1．计算用的是符号表达式而不是数；
 

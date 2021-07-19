@@ -1,8 +1,8 @@
 # Racket 软件简介
 
-Racket 是一种 Lisp 方言(“方言”，地域方言和社会方言，本文指“数字域‘方言’”)。
+Racket 是一种 Lisp(LISt Processor，链表处理器)方言(“方言”，地域方言和社会方言，今有“数字域‘方言’”)。
 
-Racket 源自 PLT Scheme(古典的专家型语言)，同时又是 Lisp 语言的一个分支(俗称“Lisp 方言”)。它适用于从脚本(Script)到应用程序(App)开发的任务执行工具，包括图形用户界面、Web服务器等。支持编译器的虚拟机，创建独立的可执行程序的工具，Racket Web 服务器，具有丰富而全面的功能库，既适用于初学者，也是专家编程者所爱。
+Racket 源自 PLT Scheme(古典的专家型语言)，同时又是 Lisp 语言的另一个分支(俗称“Lisp 方言”)。Racket 是随着 PLT Scheme 5.0 版的发布将其更名而来的(参见  https://www.plt-scheme.org/)。 它适用于从脚本(Script)到应用程序(App)开发的任务执行工具，包括图形用户界面、Web服务器等。支持编译器的虚拟机，创建独立的可执行程序的工具，Racket Web 服务器，具有丰富而全面的功能库，既适用于初学者，也是专家编程者所爱。
 
 Racket 可通过创建大量的语法系统来支持和创建新的编程语言，包括 Typed Scheme、ACL2、 FrTime、Lazy Scheme 和 ProfessorJ 等 。
 

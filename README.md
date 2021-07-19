@@ -1,5 +1,4 @@
-
-Racket 软件简介
+# Racket 软件简介
 
 Racket 是一种 Lisp 方言(“方言”，地域方言和社会方言，本文指“数字域‘方言’”)。
 
@@ -17,7 +16,7 @@ Racket 可通过创建大量的语法系统来支持和创建新的编程语言�
 
 Racket 的特点是具有全面而丰富的库，可用于实现 xml、web-server、web-framework、multiple-threads、pattern match、latex、slides、posix、GUI等，其实用性不亚于另一种 Lisp 方言 Common Lisp。另外，其与众不同的特点在于 macro和continuation，并引入了 syntax object 和 compilable macro 的概念。
 
-简说人工智能界经典语言 LISP 的几个主要特点：
+# 简说人工智能界经典语言 LISP 的几个主要特点：
 
 1．计算用的是符号表达式而不是数；
 
@@ -34,7 +33,6 @@ Racket 的特点是具有全面而丰富的库，可用于实现 xml、web-serve
 实践已经证明：LISP 的这些特点是解决人工智能核心问题的关键。它和后来由英国伦敦大学的青年学生柯瓦提出、由法国马赛大学的考尔麦劳厄(Alain Colmerauer)所领导的研究小组于1973年首先实现的逻辑式语言 PROLOG 并称为人工智能的两大语言，都对人工智能的发展起了十分深远的影响。
 
 =====================================================================
-
 
 
 
@@ -72,7 +70,7 @@ Contributing
 
 Contribute to Racket by [submitting a pull request](https://github.com/racket/racket), joining the
 [development mailing list](https://lists.racket-lang.org), or visiting
-the [IRC](https://racket-lang.org/community.html) or [Slack](https://racket-slack.herokuapp.com/) channels.
+the [IRC](https://botbot.me/freenode/racket/) or [Slack](https://racket-slack.herokuapp.com/) channels.
 
 By making a contribution, you are agreeing that your contribution is
 licensed under the LGPLv3, Apache 2.0, and MIT licenses. Those
